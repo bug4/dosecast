@@ -34,7 +34,7 @@ function App() {
       {/* Bottom Left Twitter Button */}
       <div className="absolute bottom-6 left-6 z-20">
         <a
-          href="https://x.com"
+          href="https://x.com/i/communities/1968406204444479970/"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-3 px-6 py-3 bg-black/40 hover:bg-black/60 text-emerald-400 hover:text-emerald-300 font-medium rounded-lg border border-emerald-500/30 hover:border-emerald-400/50 transition-all duration-300 backdrop-blur-md hover:shadow-lg hover:shadow-emerald-500/20"
